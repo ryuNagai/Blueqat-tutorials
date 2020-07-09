@@ -41,8 +41,8 @@ Step3. Universal Quantum Algorithms
 |112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/112_qft_en.ipynb">en</a>|<a href="tutorial-ja/112_qft_ja.ipynb">ja</a>|
 |113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/113_pea_en.ipynb">en</a>|<a href="tutorial-ja/113_pea_ja.ipynb">ja</a>|
 |114.|Grover's algorithm|Groverのアルゴリズム|<a href="tutorial/114_grover_en.ipynb">en</a>|<a href="tutorial-ja/114_grover_ja.ipynb">ja</a>|
-|116.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja|
-|117.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja|
+|116.|Deutsch's algorithm|Deutschのアルゴリズム|en|<a href="tutorial-ja/116_deutsch_ja.ipynb">ja</a>|
+|117.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|<a href="tutorial-ja/117_deutschjozsa_ja.ipynb">ja</a>|
 |118.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja|
 |119.|Simon's algorithm|Simonのアルゴリズム|en|ja|
 |120.|Shor's algorithm|Shorのアルゴリズム|en|ja|
@@ -63,10 +63,10 @@ Step5. NISQ Quantum Machine Learning
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|251.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/251_grad_ja.ipynb">ja</a>|
-|252.|Quantum Circuit Born Machine|量子回路ボルンマシン|en|<a href="tutorial-ja/252_qcbm_ja.ipynb">ja</a>|
-|253.|Tree Tensot Network|木構造テンソルネットワーク|en|<a href="tutorial-ja/253_TTN_ja.ipynb">ja</a>|
-|254.|Matrix Product State|行列積状態|en|<a href="tutorial-ja/254_mps_ja.ipynb">ja</a>|
+|251.|Numerical differentiation and gradient method|数値微分と勾配法|<a href="tutorial/251_grad_en.ipynb">en</a>|<a href="tutorial-ja/251_grad_ja.ipynb">ja</a>|
+|252.|Quantum Circuit Born Machine|量子回路ボルンマシン|<a href="tutorial/252_qcbm_en.ipynb">en</a>|<a href="tutorial-ja/252_qcbm_ja.ipynb">ja</a>|
+|253.|Tree Tensot Network|木構造テンソルネットワーク|<a href="tutorial/253_TTN_en.ipynb">en</a>|<a href="tutorial-ja/253_TTN_ja.ipynb">ja</a>|
+|254.|Matrix Product State|行列積状態|<a href="tutorial/254_mps_en.ipynb">en</a>|<a href="tutorial-ja/254_mps_ja.ipynb">ja</a>|
 
 
 Step6. Combinatorial Optimization Algorithms
@@ -94,10 +94,10 @@ Step6. Combinatorial Optimization Algorithms
 |317.|Boolean Reduction|３体問題の分解|<a href="tutorial/317_boolean_en.ipynb">en</a>|<a href="tutorial-ja/317_boolean_ja.ipynb">ja</a>|
 |318.|Portfolio Optimization|ポートフォリオ最適化|<a href="tutorial/318_portfolio_en.ipynb">en</a>|<a href="tutorial-ja/318_portfolio_ja.ipynb">ja</a>|
 |319.|Prime Factorization|最適化問題で素因数分解|<a href="tutorial/319_factorization_en.ipynb">en</a>|<a href="tutorial-ja/319_factorization_ja.ipynb">ja</a>|
-|320.|Restricted Boltzmann machine|制限付きボルツマンマシン|en|<a href="tutorial-ja/320_rbm_ja.ipynb">ja</a>|
+|320.|Restricted Boltzmann machine|制限付きボルツマンマシン|<a href="tutorial/320_rbm_en.ipynb">en</a>|<a href="tutorial-ja/320_rbm_ja.ipynb">ja</a>|
 |321.|Weak Strong Cluster|Weak-Strong Cluster問題|<a href="tutorial/321_weakstrong_en.ipynb">en</a>|<a href="tutorial-ja/321_weakstrong_ja.ipynb">ja</a>|
 |322.|Protein foldings|タンパク質折りたたみ問題|<a href="tutorial/322_protein_en.ipynb">en</a>|<a href="tutorial-ja/322_protein_ja.ipynb">ja</a>|
-|323.|Clustering|クラスタリング|en|<a href="tutorial-ja/323_clustering_ja.ipynb">ja</a>|
+|323.|Clustering|クラスタリング|<a href="tutorial/323_clustering_en.ipynb">en</a>|<a href="tutorial-ja/323_clustering_ja.ipynb">ja</a>|
 
 Step7. Quantum Chemistry with VQE
 --------------------
